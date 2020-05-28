@@ -1,1 +1,1 @@
-Recreating the google homepage with HTML and CSS.
+Recreating the Google homepage with HTML and CSS.
